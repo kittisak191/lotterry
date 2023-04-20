@@ -1,0 +1,44 @@
+.con1{
+    padding: 0 0 0 0;
+    background-color: wheat;
+}
+.head{
+    padding: 12px 0 12px 0;
+    background-color: black;
+    color: skyblue;
+    text-align: center;
+}
+/* .btnhead{
+    padding: 5px 8px 5px 8px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 15px;
+} */
+.th1{
+    color: white;
+}
+.th3{
+    color: white;
+}
+.th6{
+    color: white;
+}
+.th10{
+    color: white;
+}
+/* .con2{
+    border-style: solid;
+} */
+.btmhead{
+    background-color: skyblue;
+}
+.numlot{
+    padding-left: 20px;
+}
+.btmp1{
+    color: white;
+    padding: 15px 15px 15px 15px;
+}
+.btmp2{
+    font-weight: bold;
+}
