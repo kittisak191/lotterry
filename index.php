@@ -13,12 +13,12 @@
 <body>
     <div class="container con1">
         <div class="head">
-            <h2>รางวัลล็อตเตอรี่ Diversition</h2>
+            <h2>รางวัลล็อตเตอรี่ </h2>
         </div>
         <br>
         <div class="container">
             <div>
-                <h4>ผลการออกรางวัลล็อตเตอรี่ Diversition</h4>
+                <h4>ผลการออกรางวัลล็อตเตอรี่</h4>
             </div>
 
             <div>
@@ -75,7 +75,7 @@
             </div>
             <div class="container-fuild con2">
                 <div class="col-12 btmhead">
-                    <p class="btmp1">ตรวจรางวัลล็อตเตอรี่ Diversition</p>
+                    <p class="btmp1">ตรวจรางวัลล็อตเตอรี่</p>
                 </div>
                 <form method="post">
                     <div class="form-group row">
